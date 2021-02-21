@@ -25,24 +25,63 @@
         "oraz: sól, pieprz, oliwa lub olej, mąka pszenna"
     ]
    },
-   "id":"2",
-    "name":"KOPYTKA",
-    "img":"https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/kopytka-01.jpg",
-    "instructions": [
-      "Ziemniaki obrać i ugotować w osolonej wodzie. Odcedzić i od razu rozgnieść praską na idealnie gładkie puree. Przełożyć do miski i całkowicie ostudzić.",
-      "Dodać mąkę, jajko oraz szczyptę soli. Połączyć składniki w jednolite ciasto.",
-      "Wyłożyć na stolnicę posypaną mąką i podzielić na 6 części. Z każdej części uformować wałeczek grubości kciuka, obtaczając go w mące.",
-      "Wałek lekko spłaszczyć i pociąć nożem na kawałki o szerokości ok. 1,5 - 2 cm.",
-      "Gotować partiami: wkładać na gotującą i osoloną wodę w dużym garnku i gotować przez ok. 3 minuty licząc od czasu wypłynięcia na powierzchnię lub do miękkości.",
-      "W trakcie gotowania delikatnie przemieszać wodę drewnianą łyżką sprawdzając czy kopytka nie przykleiły się do dna. Wyławiać łyżką cedzakową i wykładać na talerze."
-    ]
-    "ingredients": [
-        "1 kg ziemniaków",
-        "200 g mąki",
-        "1 jajko",
-        "1 łyżeczka soli"
-    ]
-   },
-   
+   {
+     "id":"2",
+      "name":"KOPYTKA",
+      "img":"https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/kopytka-01.jpg",
+      "instructions": [
+        "Ziemniaki obrać i ugotować w osolonej wodzie. Odcedzić i od razu rozgnieść praską na idealnie gładkie puree. Przełożyć do miski i całkowicie ostudzić.",
+        "Dodać mąkę, jajko oraz szczyptę soli. Połączyć składniki w jednolite ciasto.",
+        "Wyłożyć na stolnicę posypaną mąką i podzielić na 6 części. Z każdej części uformować wałeczek grubości kciuka, obtaczając go w mące.",
+        "Wałek lekko spłaszczyć i pociąć nożem na kawałki o szerokości ok. 1,5 - 2 cm.",
+        "Gotować partiami: wkładać na gotującą i osoloną wodę w dużym garnku i gotować przez ok. 3 minuty licząc od czasu wypłynięcia na powierzchnię lub do miękkości.",
+        "W trakcie gotowania delikatnie przemieszać wodę drewnianą łyżką sprawdzając czy kopytka nie przykleiły się do dna. Wyławiać łyżką cedzakową i wykładać na talerze."
+      ]
+      "ingredients": [
+          "1 kg ziemniaków",
+          "200 g mąki",
+          "1 jajko",
+          "1 łyżeczka soli"
+      ]
+     },
+     {
+     "id":"3",
+      "name":"KOTLETY JAJECZNE Z KALAFIOREM",
+      "img":"https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/kotlety_jajeczne_z_kalafiorem_01.jpg",
+      "instructions": [
+        "Kalafiora podzielić na kilka mniejszych różyczek i ugotować w osolonej wodzie, odcedzić, odparować i ostudzić. Następnie rozdrobnić w melakserze na małe kawałeczki (lub posiekać na desce).",
+        "Ugotowane na twardo jajka obrać ze skorupek, drobno posiekać (lub rozgnieść widelcem lub rozdrobnić w melakserze na małe kawałeczki).",
+        "Rozdrobnione jajka i kalafiora umieścić w misce, dodać jedno surowe jajko, panier z ciecierzycy lub bułkę tartą, szczypiorek i koperek. Doprawić solą i pieprzem. Wymieszać łyżką.",
+        "Dłonią uformować 6 kotletów. Obtoczyć najpierw w roztrzepanym jajku, potem w panierze lub bułce tartej.",
+        "Rozgrzać tłuszcz na patelni, ułożyć kotlety i smażyć na średnim ogniu na złoty kolor przez ok. 3 minuty. Przewrócić na drugą stronę i powtórzyć smażenie."
+      ]
+      "ingredients": [
+          "300 g kalafiora",
+          "5 jajek ugotowanych na twardo",
+          "2 jajka surowe",
+          "3 łyżki panieru z ciecierzycy* + do obtoczenia",
+          "2 łyżki posiekanego szczypiorku",
+          "2 łyżki posiekanego koperku",
+          "tłuszcz do smażenia"
+      ]
+     }, 
+     {
+     "id":"4",
+      "name":"Makaron z truskawkami",
+      "img":"https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/makaron_z_truskawkami_01.jpg",
+      "instructions": [
+        "Makaron ugotować w lekko osolonej wodzie, odcedzić.",
+        "Truskawki umyć i oderwać szypułki. Pokroić i włożyć do miski.",
+        "Dodać cukier i rozgnieść widelcem lub przez chwilę zmiksować w rozdrabniczu.",
+        "Wymieszać ze śmietaną.",
+        "Gorący makaron wyłożyć do talerzy i polać otrzymanym sosem truskawkowym."
+      ]
+      "ingredients": [
+          "150 g makaronu wstążki",
+          "400 g truskawek",
+          "3 - 4 łyżki cukru",
+          "1/3 szklanki śmietany homogenizowanej 18%"
+      ]
+     }
  ]
   
